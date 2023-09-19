@@ -45,8 +45,8 @@ class ViderLab_GTM {
             'viderlab-gtm-settings',
             'viderlab-gtm-settings_tag',
             array(
-                'label_for'         => 'viderlab-gtm-settings_tag-code',
-                'class'             => 'viderlab-gtm-settings_row',
+                'label_for'     => 'viderlab-gtm-settings_tag-code',
+                'class'         => 'viderlab-gtm-settings_row',
                 'custom_data'   => 'custom',
             )
         );
